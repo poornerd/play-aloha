@@ -1,0 +1,19 @@
+@(title: String)(content: Html)
+
+<!DOCTYPE html>
+<html>
+    @head(title)
+<body>
+
+    @menu()
+
+    <div class="container-fluid">
+ <!--       <button id="showModalButton" class="btn btn-primary btn-large"><i class="icon-exclamation-sign icon-white"></i> Show a Modal</button> -->
+        @content
+    </div>
+
+    
+    @footer()
+    
+</body>
+</html>

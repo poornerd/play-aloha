@@ -1,0 +1,55 @@
+    <div id="myModal" class="modal hide fade">
+        <div class="modal-header">
+            <button class="close" data-dismiss="modal">&times;</button>
+            <h3>This is a Modal</h3>
+        </div>
+        <div class="modal-body">
+            <p>Bootstrap depends on jQuery.  So when you specify Bootstrap as a dependency you get jQuery too.</p>
+        </div>
+        <div class="modal-footer">
+            <a href="#" class="btn" data-dismiss="modal">Close</a>
+        </div>
+    </div>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type='text/javascript' src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery.min.js"))'></script>
+    <script type='text/javascript' src='@routes.WebJarAssets.at(WebJarAssets.locate("bootstrap/2.3.1/js/bootstrap.min.js"))'></script>
+    
+    <script type="text/javascript">
+        $(function() {
+            $("#showModalButton").bind('click', function(event) {
+                $('#myModal').modal()
+            })
+        })
+    </script>
+ 
+
+     <!-- Aloha Stuff
+    ================================================== -->
+               <!-- load the jQuery and require.js libraries -->
+              <script type="text/javascript" src="http://cdn.aloha-editor.org/latest/lib/require.js"></script>
+ 
+              <!-- load the Aloha Editor core and some plugins -->
+              <script src="http://cdn.aloha-editor.org/latest/lib/aloha.js"
+                                   data-aloha-plugins="common/ui,
+                                                        common/format,
+                                                        common/list,
+                                                        common/link,
+                                                        common/highlighteditables">
+              </script>
+               
+              <!-- load the Aloha Editor CSS styles -->
+              <link href="http://cdn.aloha-editor.org/latest/css/aloha.css" rel="stylesheet" type="text/css" />
+                
+            <!-- save the content of the page -->
+            <script src="/assets/aloha-save.js"></script>
+
+              <!-- make all elements with class="editable" editable with Aloha Editor -->
+              <script type="text/javascript">
+                     Aloha.ready( function() {
+                            var $ = Aloha.jQuery;
+                            $('.editable').aloha();
+                     });
+              </script>           

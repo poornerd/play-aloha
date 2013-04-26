@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"render"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bp/node/groupsnap/views/layout.jade",
+		"/Users/bp/node/groupsnap/views/group_incl.jade",
+		"/Users/bp/node/groupsnap/models/snap.js",
+		"/Users/bp/node/groupsnap/views/images_list_test.jade",
+		"/Users/bp/node/groupsnap/app.js",
+		"/Users/bp/node/groupsnap/.gitignore",
+		"/Users/bp/node/groupsnap/routes/group.js",
+		"/Users/bp/node/groupsnap/views/index.jade",
+		"/Users/bp/node/groupsnap/routes/index.js",
+		"/Users/bp/node/groupsnap/public/stylesheets/style.css",
+		"/Users/bp/node/groupsnap/views/footer.html",
+		"/Users/bp/node/groupsnap/views/navigation.html",
+		"/Users/bp/node/groupsnap/views/group.jade",
+		"/Users/bp/node/groupsnap/views/index.jade~",
+		"/Users/bp/node/groupsnap/views/group_incl",
+		"/Users/bp/node/groupsnap/public/bootstrap/css/bootstrap.css",
+		"/Users/bp/node/groupsnap/public/bootstrap/css/googlestrap.css",
+		"/Users/bp/node/groupsnap/views/startpage.html",
+		"/Users/bp/Sites/groupsnap/index.html",
+		"/Users/bp/Sites/groupsnap/js/todos.js",
+		"/Users/bp/play2/securesocial/module-code/app/securesocial/core/providers/TwitterProvider.scala",
+		"/Users/bp/Downloads/pass (1) 2/manifest.json",
+		"/Users/bp/Downloads/pass (1) 2/pass.json",
+		"/Users/bp/Documents/workspace-sts-2.3.0.RELEASE/proaurum.zip",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/model/bean/WorkdayProxy.java",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/model/bean/Workday.java",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/control/TimesheetController.java",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/model/bean/WorkdayData.java",
+		"/Users/bp/Projekte/9live-merge/conf/beanmetadata.xml",
+		"/Users/bp/Projekte/9live-merge/conf/project.properties",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/WEB-INF/web.xml",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/WEB-INF/web.xml",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/WEB-INF/help.tld",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/WEB-INF/help.tld",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/print.css",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/print.css",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/javascript/date-functions.js",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/javascript/date-functions.js",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/index.jsp",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/componentstyle.css",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/componentstyle.css",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/additionalStyles.css",
+		"/Users/bp/Projekte/9live-simtool-merge-2/src/documentroot/additionalStyles.css",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/model/bean/WorkingHourData.java",
+		"/Users/bp/Projekte/ITL/src/java/com/sf/timesheet/model/bean/WorkingHour.java",
+		"/Users/bp/play2/itl-extranet/app/models/User.java",
+		"/Users/bp/play2/itl-extranet/app/models/contactbase/Company.java",
+		"/Users/bp/play2/itl-extranet/app/models/timesheet/Workday.java",
+		"/Users/bp/play2/itl-extranet/app/models/timesheet/WorkingHour.java",
+		"/Users/bp/play2/itl-extranet/app/models/security/Role.java",
+		"/Users/bp/Projekte/9live-simtool-merge/src/documentroot/WEB-INF/web.xml",
+		"/Users/bp/Projekte/9live-simtool-merge/src/documentroot/index.jsp",
+		"/Users/bp/Projekte/9live-merge/src/documentroot/sfmenu.css",
+		"/Users/bp/Projekte/9live-simtool-merge/src/documentroot/sfmenu.css",
+		"/Users/bp/Projekte/9live-simtool-merge/src/documentroot/componentstyle.css",
+		"/Users/bp/Projekte/9live-simtool-merge/src/documentroot/additionalStyles.css",
+		"/Users/bp/Projekte/9live-simtool-merge/build.xml",
+		"/Users/bp/Projekte/9live-merge/build.xml",
+		"/opt/local/play/play-2.0.4/samples/java/computer-database/app/controllers/Application.java",
+		"/opt/local/play/play-2.0.4/samples/java/computer-database/app/views/list.scala.html",
+		"/Users/bp/Projekte/9live-merge/conf/buttons_de.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/buttons_de.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/buttons_en.properties",
+		"/Users/bp/Projekte/9live-merge/conf/buttons.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/buttons.properties",
+		"/Users/bp/Projekte/9live-merge/conf/db.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/db.properties",
+		"/Users/bp/Projekte/9live-merge/conf/jrelay.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/jrelay.properties",
+		"/Users/bp/Projekte/9live-merge/conf/log4j.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/log4j.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/project.properties",
+		"/Users/bp/Projekte/9live-merge/conf/SystemMessages.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/SystemMessages.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/beanmetadata.xml",
+		"/Users/bp/Projekte/9live-merge/conf/Document.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/Document.properties",
+		"/Users/bp/Projekte/9live-merge/conf/system.properties",
+		"/Users/bp/Projekte/9live-simtool-merge/conf/system.properties",
+		"/Users/bp/play2/club/app/views/document.scala.html",
+		"/Users/bp/play2/club/app/models/AnmeldungSearchView.java",
+		"/Users/bp/play2/club/app/controllers/Application.java",
+		"/Users/bp/play2/club/app/views/anmeldung/anmeldungList.scala.html",
+		"/Users/bp/play2/club/conf/application.conf",
+		"/Users/bp/play2/club/app/models/Anmeldung.java",
+		"/Users/bp/play2/club/conf/routes",
+		"/Users/bp/play2/club/app/views/twitterBootstrapInput.scala.html",
+		"/Users/bp/play2/club/modules/securesocial/app/securesocial/core/java/SocialUser.java",
+		"/Users/bp/play2/club/public/bootstrap/css/bootstrap.min.css",
+		"/Users/bp/play2/club/public/stylesheets/main.css",
+		"/Users/bp/play2/club/conf/play.plugins",
+		"/Users/bp/play2/club/app/views/twitterBootstrapInputBuilder.scala.html",
+		"/Users/bp/play2/club/modules/securesocial/app/securesocial/controllers/Registration.scala",
+		"/Users/bp/play2/club/app/controllers/Anmeldungs",
+		"/Users/bp/play2/club/app/controllers/Anmeldungs.java",
+		"/Users/bp/play2/club/app/views/anmeldung.scala.html",
+		"/Users/bp/Downloads/initializr 2/css/bootstrap.css",
+		"/Users/bp/Documents/workspace-sts-2.3.0.RELEASE/proaurumMagnoliaTheme/src/main/resources/templating-kit/themes/proaurum/css/styles.css",
+		"/Users/bp/Documents/workspace-sts-2.3.0.RELEASE/simtool2/build.properties",
+		"/Users/bp/Documents/workspace-sts-2.3.0.RELEASE/simtool2/build.xml",
+		"/Users/bp/play2/test/app/views/index.scala.html",
+		"/Users/bp/play2/test/app/controllers/Application.java",
+		"/Users/bp/Desktop/pascha-fehler.txt",
+		"/Users/bp/play2/club/project/Build.scala"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gradient",
+			"radius",
+			"sublim",
+			"radius",
+			"setHours",
+			"serialVersionUID",
+			"Project",
+			"textmax80size40",
+			"Permission",
+			"token",
+			"js",
+			"form",
+			".nav-col-float",
+			".nav-col-float2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"conf/routes"
+			],
+			[
+				"appl",
+				"app/controllers/Application.java"
+			],
+			[
+				"rout",
+				"conf/routes"
+			],
+			[
+				"build.sc",
+				"project/Build.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
