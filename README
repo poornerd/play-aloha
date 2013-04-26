@@ -1,4 +1,8 @@
-This is your new Play 2.1 application
+Play Framework 2.x Example Project integrating the Aloha WYSIWYG Editor
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+I am con­stantly need­ing to update sta­tic con­tent in Tem­plates in my Play! Frame­work project, so I decided to inte­grate the Aloha Edi­tor, an HTML5 WYSIWYG Editor.
+
+It is free to use, and they offer an exam­ple of inte­gra­tion an sav­ing with a POST to the server on this page: http://​www​.aloha​-edi​tor​.org/​h​o​w​t​o​-​s​t​o​r​e​-​d​a​t​a​-​w​i​t​h​-​a​l​o​h​a​-​e​d​i​t​o​r​-​a​j​a​x​.​php
+
+more on my blog: http://www.poornerd.com/2013/04/26/integrating-the-aloha-wysiwyg-editor-with-play-framework/
