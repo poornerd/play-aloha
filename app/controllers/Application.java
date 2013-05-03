@@ -37,7 +37,7 @@ public class Application extends Controller {
 
         try {
             File input = new File(Play.application().path() + "/app/views/index.scala.html");
-            Document doc = Jsoup.parse(input, "UTF-8", request().host() + request().path());
+            Document doc = Jsoup.parse(input, "UTF-8", request().host() + pageId);
 
             String selector = "#" + contentId;
             Element part = doc.select(selector).first();
