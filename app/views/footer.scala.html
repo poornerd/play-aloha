@@ -24,8 +24,8 @@
             })
         })
     </script>
- 
 
+@if(Application.isAlohaOn()) {
      <!-- Aloha Stuff
     ================================================== -->
                <!-- load the jQuery and require.js libraries -->
@@ -52,4 +52,6 @@
                             var $ = Aloha.jQuery;
                             $('.editable').aloha();
                      });
-              </script>           
+              </script>  
+              
+}

@@ -13,3 +13,15 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+
+*.sublime-project
+
+*.sublime-workspace
+
+project/activator-defaults-shim.sbt
+
+project/activator-eclipse-shim.sbt
+
+project/activator-idea-shim.sbt
+
+project/activator-play-shim.sbt
