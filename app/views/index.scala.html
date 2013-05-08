@@ -1,5 +1,7 @@
 @(message: String)
 
+@session.put("aloha.filename." + request.uri,"index.scala.html")
+
 @main("Welcome to Play 2.1") {
 
 
@@ -12,7 +14,7 @@
           <img src="http://lorempixel.com/1500/550/technics/" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1 id="c1title" class="editable">Example headline.</h1>
+              <h1 id="c1title" class="editable">Example headline</h1>
               <p id="c1text" class="editable lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <a id="c1button"  class="editable btn btn-large btn-primary" href="#">Sign up today</a>
             </div>
@@ -78,8 +80,8 @@
 
       <div class="featurette">
         <img class="featurette-image pull-right" src="http://twitter.github.io/bootstrap/assets/img/examples/browser-icon-chrome.png">
-        <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">@Messages("label.featurette1") <span class="muted">@Messages("label.featurette1Mute")</span></h2>
+        <p class="lead"> @request.uri nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
       </div>
 
       <hr class="featurette-divider">

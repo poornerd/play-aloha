@@ -6,6 +6,7 @@
 GET     /                           controllers.Application.index()
 
 POST 	/aloha-save					controllers.Application.aloha()
+POST    /chrome-save                controllers.Application.saveDeveloperFile()
 
 GET     /webjars/*file              controllers.WebJarAssets.at(file)
 
